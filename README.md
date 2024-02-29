@@ -1,3 +1,4 @@
 # 1010-game
-1010!game의 솔루션파일(.sln)과 소스파일(.cpp), 헤더파일(.h)입니다.
-/Release/1010!.exe 파일로 실행가능합니다.
+Development environment: Visual Studio(MFC)
+Language: C++
+Release: /Release/1010!.exe
